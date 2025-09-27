@@ -1,12 +1,12 @@
 import './App.css';
-import MovieCard from './components/MovieCard';
+import Home from './pages/Home';
 
 function App() {
   const movieNumber = 1;
 
   return (
     <> {/* Fragment: returns must have one parent */}
-      {movieNumber === 1 && <MovieCard movie = {{title:"Film 1", release_date:"2019"}} />}
+      <Home/>
     </>
   );
 }

@@ -29,4 +29,5 @@ function MovieCard({movie}) {
     );
 }
 
+// needed to import 
 export default MovieCard
