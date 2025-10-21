@@ -1,5 +1,6 @@
 import MovieCard from "../components/MovieCard";
 import {useState, UseState} from "react"
+import "../css/Home.css"
 
 /* NOTES: 
  * In this document, we see a perfect example of the use of a state + conditional rendering to dynamically

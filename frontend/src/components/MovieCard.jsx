@@ -1,4 +1,4 @@
-
+import '../css/MovieCard.css'
 /* Makes a movie card box for display
  * It takes a movie object and we will use HTML and HTML classes
  * to format the attributes of the movie
